@@ -3,7 +3,7 @@ email: skris114@asu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Software Developer. Hacking my way through life one project at a time.
 baseurl: "/" 
-url: "/portfolio-template" 
+url: "https://krishnasameeth.github.io/" 
 twitter_username: krishna_sameeth
 github_username:  krishnasameeth
 
